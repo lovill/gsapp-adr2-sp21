@@ -139,6 +139,9 @@ dmypy.json
 *.rhl
 *.bak
 
+#Images JPGS
+*.jpg
+
 #Video files
 *.avi
 *.mp4
