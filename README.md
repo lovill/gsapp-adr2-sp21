@@ -21,9 +21,11 @@ Load one individual geometry for each individual dataset.
 This file shows how to simplify the process leveraging the concept of *lists*.
 
 #### Blocks Viz 03
-Rather than listing custom and individual colors for each piece of geometry we can use color gradients to directly
-represent something about the data that we are visualizing. In this case we are visualizing block height.
+Rather than listing custom and individual colors for each piece of geometry we
+can use color gradients to directly represent something about the data that
+we are visualizing. In this case we are visualizing block height.
 
 #### Blocks Viz 04
-This file shows stacked gradient-colored blocks. By repeating the same process above the previously extruded geometries we can
+This file shows stacked gradient-colored blocks. By repeating the same process on top of
+the previously extruded geometries we can
 visualize additional dimensions.
